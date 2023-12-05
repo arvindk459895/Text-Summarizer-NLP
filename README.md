@@ -9,3 +9,7 @@
 # update the pipeline
 # update the main.py
 # update the app.py
+
+
+# Create ECR repo to store/save the docker image
+# Save the URI - 942015907222.dkr.ecr.eu-north-1.amazonaws.com/text-s
